@@ -1,29 +1,29 @@
 # 👋 Hello, I'm Javier!
 
-**Sr. Technical Program Manager | AI/ML-Informed Program Delivery | Data & Systems Transformation**
+**Sr. Technical Program Manager | AI/ML Program Delivery | Processes & Systems Transformation**
 
-Seattle · USA  
+🏔️ Seattle · USA  
 📧 Email: <your email>  
 🔗 LinkedIn: https://linkedin.com/in/javierbonillab  
 🌐 Portfolio: https://javierbonilla.com  
 🐙 GitHub: https://github.com/Jay06eng  
 
----
+
 
 ## 🔥 About Me
 
-I blend **program leadership, data science, and AI/ML fluency** to deliver large-scale initiatives across finance, advertising, ops, and enterprise platforms.  
-My work spans:
+Combining **Program Leadership experience, Agile, Data Science and AI/ML fluency** I transform data into positive impactful solutions.
+Passionate about all there is to know about Artificial Inteligence and Machine Learning.
+My work starts by understanding the audience needs, define a strategy, guarantee buy in, timely execution and successful deployment. 
 
-- Scalable AI-informed program execution  
-- Data-driven decision systems  
-- Enterprise transformations (D365, Salesforce, ADO)  
-- Analytics, forecasting, and automation  
-- Cross-functional leadership across engineering, product, and operations  
 
-I focus on **turning ambiguity into clarity**, building systems that scale, and using AI/ML to accelerate program velocity and decision-making.
+## What I work on use each of the bullets below, create a STAR bullet point and plugged into the professional highlights
 
----
+Formalizing AI/ML and Software Product Management experience through the Skillspire Program link and UW Program Link
+Salesforce, D365 system enhancements, integrations to help scale operations
+Leverage Data Science to make informed decisiones
+Quarterly, Yearly Strategy Planning
+etc...
 
 ## 🌟 Professional Highlights
 
@@ -31,7 +31,7 @@ I focus on **turning ambiguity into clarity**, building systems that scale, and 
   Led PMO and multi-workstream transformation across ERP, CRM, and channel systems. Improved governance, throughput, forecasting, and cross-team alignment.
 
 - **Sr. Strategy & Ops (Ads Finance) – Pinterest**  
-  Delivered Self-Service IO Alpha in < 3 months, enabling $100M FY23 revenue opportunity and foundational scalability to $250M+ run-rate.
+  Delivered Self-Service IO Alpha in < 3 months, enabling $100M FY23 revenue opportunity and foundational scalability to $150M+ run-rate.
 
 - **Transformation PM – Amazon**  
   Drove cycle-time reduction, SLA governance, automation opportunities, and KPI reporting across Finance Ops and Seller Support.
