@@ -10,11 +10,10 @@
 
 
 
-## 🔥 About Me
+# 🔥 About Me
 
-Combining **Program Leadership experience, Agile, Data Science and AI/ML fluency** I transform data into positive impactful solutions.
-Passionate about all there is to know about Artificial Inteligence and Machine Learning.
-My work starts by understanding the audience needs, define a strategy, guarantee buy in, timely execution and successful deployment. 
+Combining program leadership experience and technical fluency I transform data into positive impactful solutions. Passionate about all there is to know about Artificial Inteligence and Machine Learning. My work starts by understanding
+the audience needs, define a strategy, guarantee buy in, timely execution and successful deployment. 
 
 
 ## What I work on use each of the bullets below, create a STAR bullet point and plugged into the professional highlights
@@ -39,7 +38,7 @@ etc...
 - **Analytics & Data Projects (Python/ML)**  
   Built end-to-end Spotify analytics (8,582 tracks), SQL dashboard optimizations, ML-assisted handle-time prediction, and ETL/data ops pipelines.
 
----
+
 
 ## 🧰 Tech Toolbox
 
@@ -50,7 +49,7 @@ etc...
 **Platforms:** Salesforce, Dynamics 365 CE/F&O, Jupyter, SQLite  
 **Strengths:** Program Management, Roadmapping, Operating Rhythms, Governance, Cross-functional Alignment, AI-Assisted Execution
 
----
+
 
 ## 📂 Featured Projects
 
@@ -67,7 +66,7 @@ etc...
   Feature engineering, regression modeling, service-level forecasting  
   🔗 (Link once published)
 
----
+
 
 ### 🔵 Program Management / TPM Projects
 - **Pinterest – Self-Service IO Program**  
@@ -82,7 +81,7 @@ etc...
   Cycle-time reduction, SLA governance, KPI reporting  
   🔗 https://javierbonilla.com/project/pm-amzn-finance-ops/
 
----
+
 
 ## 🎓 Education & Training
 
@@ -91,7 +90,7 @@ etc...
 - **Skillspire – AI/ML Program** (in progress)  
 - **UW Professional & Continuing Education – Software Product Management** (accepted)
 
----
+
 
 ## 🎖 Certifications & Learning
 
