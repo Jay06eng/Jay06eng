@@ -5,10 +5,7 @@
 
 🏔️ Seattle · USA  
 📧 Email: <your email>  
-🔗 LinkedIn: https://linkedin.com/in/javierbonillab  
 🌐 Portfolio: https://javierbonilla.com  
-🐙 GitHub: https://github.com/Jay06eng  
-
 
 
 # 🔥 About Me
