@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Javier!
 
-**Sr. Technical Program Manager | AI/ML Program Delivery | Processes & Systems Transformation**
+**Sr. Technical Program Manager | Platform Engineering | Processes & Systems Transformation**
+
 
 🏔️ Seattle · USA  
 📧 Email: <your email>  
@@ -12,7 +13,8 @@
 
 # 🔥 About Me
 
-Combining program leadership experience and technical fluency I transform data into positive impactful solutions. Passionate about all there is to know about Artificial Inteligence and Machine Learning. My work starts by understanding
+Passionate about all there is to know about Artificial Inteligence and Machine Learning. My work starts by understanding
+
 the audience needs, define a strategy, guarantee buy in, timely execution and successful deployment. 
 
 
