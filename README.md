@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Javier!
 
-**Sr. Technical Program Manager | Platform Engineering | Processes & Systems Transformation**
+**Senior Technical Program Manager | Business Systems & Platform Engineering | Advancing AI/ML Capabilities**
 
 
 🏔️ Seattle · USA  
