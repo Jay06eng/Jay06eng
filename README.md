@@ -27,46 +27,7 @@
 
 
 
-
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Jay06eng&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-
-
-
-
-
-
-
-
-## Projects
-
-### 🟣 AI & Data Projects
-- **Spotify Track Analytics (8,582 tracks)**  
-  EDA, feature insights, charts, release patterns, and artist/track popularity drivers  
-  🔗 https://javierbonilla.com/project/ds-spotify-analytics/
-
-- **Handle Time ML Model (In Progress)**  
-  Feature engineering, regression modeling, service-level forecasting  
-  🔗 (Link once published)
-
-### 🔵 **Program Management / TPM Projects (In Progress)**
-- **Pinterest – Self-Service IO Program**  
-  Revenue enablement, Salesforce integration, cross-team delivery  
-  🔗 https://javierbonilla.com/project/pm-pinterest-io/
-
-- **Xenonarc – D365 Digital Transformation (In Progress)**  
-  PMO creation, operating cadence, ERP/CRM modernization  
-  🔗 https://javierbonilla.com/project/pm-xenonarc-d365/
-
-- **Amazon – Finance Ops Optimization (In Progress)**  
-  Cycle-time reduction, SLA governance, KPI reporting  
-  🔗 https://javierbonilla.com/project/pm-amzn-finance-ops/
-
-
-
-## 🎓 Education & Training
+## 🎓 Education
 
 - **UW Professional & Continuing Education – Software Product Management** (enrolled) 01/2026-09/2026
 - **Skillspire – AI/ML Program** (in progress) 10/2025-2/2026
@@ -105,7 +66,29 @@
 
 **Artificial Intelligence and Bots:** ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-  
+## Projects
+
+### 🟣 AI & Data Projects
+- **Spotify Track Analytics (8,582 tracks)**  
+  EDA, feature insights, charts, release patterns, and artist/track popularity drivers  
+  🔗 https://javierbonilla.com/project/ds-spotify-analytics/
+
+- **Handle Time ML Model (In Progress)**  
+  Feature engineering, regression modeling, service-level forecasting  
+  🔗 (Link once published)
+
+### 🔵 **Program Management / TPM Projects (In Progress)**
+- **Pinterest – Self-Service IO Program**  
+  Revenue enablement, Salesforce integration, cross-team delivery  
+  🔗 https://javierbonilla.com/project/pm-pinterest-io/
+
+- **Xenonarc – D365 Digital Transformation (In Progress)**  
+  PMO creation, operating cadence, ERP/CRM modernization  
+  🔗 https://javierbonilla.com/project/pm-xenonarc-d365/
+
+- **Amazon – Finance Ops Optimization (In Progress)**  
+  Cycle-time reduction, SLA governance, KPI reporting  
+  🔗 https://javierbonilla.com/project/pm-amzn-finance-ops/  
 ---
   
 
