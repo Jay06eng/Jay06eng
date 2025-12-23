@@ -1,10 +1,10 @@
 ## Hello, I'm Javier 👋      <a href="https://linkedin.com/in/javierbonillab/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
-I like turning messy ideas into things that actually work.
+🎯     I like turning messy ideas into things that actually work.
 <br>
-My Program Management background led me to my deep interest in tech. 
+💻     My Program Management background led me to my deep interest in tech. 
 <br>
-I’m at my best bringing teams together, simplifying complexity, and shipping real solutions.  
+👫👫   I’m at my best bringing teams together, simplifying complexity, and shipping real solutions.  
 <br><br>
 
 **Strengths:**
@@ -14,7 +14,7 @@ I’m at my best bringing teams together, simplifying complexity, and shipping r
 - Governance
 - Cross-functional Alignment
 <br>
-I'm in the process of publishing the most relevant projects I have led and how they solved specific real-world  problems.
+🚧 I'm in the process of publishing the most relevant projects I have led and how they solved specific real-world  problems. 🚧
 <br><br>
 
 ## Featured Projects
