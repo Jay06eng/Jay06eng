@@ -10,7 +10,7 @@ I’m at my best bringing teams together, simplifying complexity, and shipping r
 **Strengths:**
 - Program Management
 - Roadmapping
-- Operating Rhythms
+- AI_ML driven solutions
 - Governance
 - Cross-functional Alignment
 <br>
