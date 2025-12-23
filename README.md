@@ -1,27 +1,15 @@
 # Hello, I'm Javier 👋
 
-**Senior Technical Program Manager |  Enterprise Systems | Advancing AI/ML Capabilities**
+<a href="https://linkedin.com/in/javierbonillab/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-🏔️ Seattle · USA  
-📧 Email: <your email>  
-🌐 Portfolio: https://javierbonilla.com  
 
 
-# 🔥 About Me
+# About Me  🔥
 
-Passionate about all there is to know about Artificial Inteligence and Machine Learning. My work starts by understanding
-
-the audience needs, define a strategy, guarantee buy in, timely execution and successful deployment. 
-
-
-## What I work on use each of the bullets below, create a STAR bullet point and plugged into the professional highlights
-
-Formalizing AI/ML and Software Product Management experience through the Skillspire Program link and UW Program Link
-Salesforce, D365 system enhancements, integrations to help scale operations
-Leverage Data Science to make informed decisiones
-Quarterly, Yearly Strategy Planning
-etc...
+I like starting with people and problems, then turning messy ideas into things that actually work.  
+I’m at my best bringing teams together, simplifying complexity, and shipping real solutions.  
+Always curious, always learning.
 
 ## 🌟 Professional Highlights
 
