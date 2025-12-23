@@ -29,7 +29,8 @@ I'm in the process of publishing the most relevant projects I have led and how t
 
 
 
-
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Jay06eng&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 
 
