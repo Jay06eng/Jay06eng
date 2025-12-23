@@ -14,7 +14,7 @@ I’m at my best bringing teams together, simplifying complexity, and shipping r
 - Governance
 - Cross-functional Alignment
 <br>
-I'm in the process of publishing the most relevant projects I have led and how they solved specific real-world  solutions.
+I'm in the process of publishing the most relevant projects I have led and how they solved specific real-world  problems.
 <br><br>
 
 ## Featured Projects
