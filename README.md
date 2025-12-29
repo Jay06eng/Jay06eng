@@ -24,7 +24,7 @@
 |-----------------------------------------------|----------------------------|----------------------------------------------|
 |EDA, feature insights, charts, release patterns, and artist/track popularity drivers       | <a href="https://www.linkedin.com/posts/javierbonillab_spotifytracksanalyticsreport-activity-7396396229645094912-8QRQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA0nqHMBeZeq6RdM8Nny1hOr9upm3hjc6OQ">Spotify Track Analytics (8,582 tracks)</a>| AI & Data Projects | 
 | Applied AI/ML Program Management | <a href="https://github.com/Jay06eng/decision-assistant-ai-tpm/blob/main/README.md">Portfolio Decision Assistant App_</a>| AI/ML-powered value prioritization system
-
+|Documentation, Learning & Development | <a href="https://github.com/Jay06eng/learning_garage">learning_garage | My digital garage to store documents, notes and everything in between
 
 
 <br>
