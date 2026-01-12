@@ -13,9 +13,7 @@
 - AI_ML driven solutions
 - Governance
 - Cross-functional Alignment
-<br>
-🚧 I'm in the process of publishing the most relevant projects I have led and how they solved specific real-world  problems. 🚧
-<br><br>
+
 
 ## Featured Projects
 <br>
@@ -50,27 +48,7 @@
 **Artificial Intelligence and Bots:** ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
-## Projects
 
-### 🟣 AI & Data Projects
-- **Spotify Track Analytics (8,582 tracks)**  
-  EDA, feature insights, charts, release patterns, and artist/track popularity drivers  
-  🔗 https://javierbonilla.com/project/ds-spotify-analytics/
-
-- **Handle Time ML Model (In Progress)**  
-  Feature engineering, regression modeling, service-level forecasting  
-  🔗 In Progress
-
-### 🔵 **Program Management / TPM Projects (In Progress)**
-- **Pinterest – Self-Service IO Program**  
-  Revenue enablement, Salesforce integration, cross-team delivery  
-  🔗 In Progress
-
-
-
-- **Amazon – Finance Ops Optimization (In Progress)**  
-  Cycle-time reduction, SLA governance, KPI reporting  
-  🔗 In Progress
 
 
   
@@ -83,10 +61,11 @@
 
 
 ## 🎖 Certifications & Learning
-
+- [AI & Machine Learning: Code, Train, Deploy Program](https://www.skillspire.net/courses/ai-and-machine-learning-code-train-deploy) 
+- Preparing to take the AWS AI Practitioner Certificate by Feb 2026 
 - Lean Six Sigma Black Belt  
-- Preparing to take the AWS AI Practitioner Certificate by Jan 2026 
-- Preparing to take the AWS ML Engineer Associate Certificate in Feb 2026
+
+
 
  
  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
