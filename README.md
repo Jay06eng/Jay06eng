@@ -38,7 +38,8 @@
  
 **Cloud Storage:** ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-**Hosting/SaaS:** ![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+**Hosting/SaaS:** ![Salesforce](https://img.shields.io/badge/salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+ ![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Documentation Platforms:**![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
