@@ -7,6 +7,10 @@
 👫👫   I’m at my best bringing teams together, simplifying complexity, and shipping real solutions.  
 <br><br>
 
+At the moment, I’m exploring how AI agents can support Ads platform programs. Helping ad delivery scale better by reducing friction and improving how signals flow across teams.
+
+The goal is to run high-impact Ads programs with product, engineering, data science, and business partners. Using AI-assisted insights to surface risks early, speed up decisions, and deliver clear, measurable results.
+
 **Strengths:**
 - Program Management
 - Roadmapping
