@@ -60,14 +60,13 @@ The goal is to run high-impact Ads programs with product, engineering, data scie
 ## 🎓 Education
 
 - **UW Professional & Continuing Education – Software Product Management** (enrolled) 01/2026-09/2026
-- **Skillspire – AI/ML Program** (in progress) 10/2025-2/2026
+- **Skillspire – AI/ML Program** 10/2025-2/2026
 - **Caltech – Data Science Certificate**
 - **Industrial Engineering**  Advcanced Course Work Completed
 
 
 ## 🎖 Certifications & Learning
 - [AI & Machine Learning: Code, Train, Deploy Program](https://www.skillspire.net/courses/ai-and-machine-learning-code-train-deploy) 
-- Preparing to take the AWS AI Practitioner Certificate by Feb 2026 
 - Lean Six Sigma Black Belt  
 
 
