@@ -45,7 +45,7 @@
 ## 🧰 **Tech Toolbox**
 
 
-**Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+**Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -77,8 +77,8 @@
 
 
 ## 🎖 Certifications & Learning
-- [AI & Machine Learning: Code, Train, Deploy Program](https://www.skillspire.net/courses/ai-and-machine-learning-code-train-deploy) 
-- Lean Six Sigma Black Belt  
+- [AI & Machine Learning: Code, Train, Deploy Program](https://www.skillspire.net/courses/ai-and-machine-learning-code-train-deploy)  ![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Code%20Train%20Deploy-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+- Lean Six Sigma Black Belt   ![Lean Six Sigma Black Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Black%20Belt-000000?style=for-the-badge&logo=target&logoColor=white)
 
 
 
