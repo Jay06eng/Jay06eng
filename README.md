@@ -1,26 +1,37 @@
 ## Hello, I'm Javier 👋      <a href="https://linkedin.com/in/javierbonillab/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
-🎯     I like turning messy ideas into things that actually work.
 <br>
-💻     My Program Management background led me to my deep interest in tech. 
-<br>
-👫👫   I’m at my best bringing teams together, simplifying complexity, and shipping real solutions.  
-<br><br>
+<h3 align="center">
+  <span style="font-size:16px">S</span><span style="font-size:14px">ENIOR </span><span style="font-size:16px">T</span><span style="font-size:14px">ECHNICAL </span><span style="font-size:16px">P</span><span style="font-size:14px">ROGRAM </span><span style="font-size:16px">M</span><span style="font-size:14px">ANAGER</span>
+</h3>
 
-At the moment, I’m exploring how AI agents can support Ads platform programs. Helping ad delivery scale better by reducing friction and improving how signals flow across teams.
+<p align="center">TPM bridging engineering depth and scaled tooling for <strong>Data & Revenue Operations</strong> in the <strong>eCommerce, Digital Marketing, and Ads industries</strong>, unlocking <strong>$4.2B+ in Ads spend</strong>.</p>
 
-The goal is to run high-impact Ads programs with product, engineering, data science, and business partners. Using AI-assisted insights to surface risks early, speed up decisions, and deliver clear, measurable results.
+---
+<h2 align="center"><strong><span style="font-size:16px">K</span><span style="font-size:14px">ey </span><span style="font-size:16px">H</span><span style="font-size:14px">ighlights</span></strong></h2>
 
-**Strengths:**
-- Program Management
-- Roadmapping
-- AI_ML driven solutions
-- Governance
-- Cross-functional Alignment
+- Shipped the Self-Service IO feature at Pinterest.
+  - Projected **$150M+ revenue impact**, enabling scalable advertiser frictionless products.
 
+- **Ads Deals Framework**
+  - Increased deal value by **$100M YoY**, by improving monetization workflows.
 
-## Featured Projects
-<br>
+- **Leadership and Alignment**
+  Directed  Engineering, Product, Legal, Finance, Data**, and Sales teams efforts .
+  - Platform migration and integrations impacting 100K+ advertisers at Pinterest and Xenon Arc.
+  - Designed, built and managed process improvements empowering 1.5M hourly workers and 900K+ Sellers at Amazon.
+
+- **Delivery & Process Excellence**
+  Managed delivery pipelines using Jira and GitHub, enforcing SDLC discipline and **LEAN SIX SIGMA process improvements.
+
+- **AI and Agentic Systems**
+  Hands-on experience with AI agent orchestration, applying strong guardrails around privacy, safety, and human-in-the-loop oversight.
+
+- **Executive Communication**
+  Known for structured thinking and clear communication that builds trust from peers to C-suite leaders in complex global environments.
+
+---
+
 
 | Skills                                         | Associated Project         | Project Type                                        |
 |-----------------------------------------------|----------------------------|----------------------------------------------|
