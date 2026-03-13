@@ -71,16 +71,18 @@
 ## 🎓 Education
 
 - **UW Professional & Continuing Education – Software Product Management** (In Progress) 01/2026-09/2026
-- **Skillspire – AI/ML Program** 10/2025-2/2026
 - **Caltech – Data Science Certificate**
 - **Industrial Engineering**  Advcanced Course Work Completed
 
 
 ## 🎖 Certifications & Learning
-- [AI & Machine Learning: Code, Train, Deploy Program](https://www.skillspire.net/courses/ai-and-machine-learning-code-train-deploy)  ![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Code%20Train%20Deploy-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+- **AI & Machine Learning: Code, Train, Deploy Program** ![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Code%20Train%20Deploy-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 - Lean Six Sigma Black Belt   ![Lean Six Sigma Black Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Black%20Belt-000000?style=for-the-badge&logo=target&logoColor=white)
 
+-  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
- 
- ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+<a href="https://credsverse.com/credentials/f2d0a06f-bd8b-4f52-9570-94a9c2cf671f">
+  <img width="700" src="https://cdn.certifier.io/aa7f2d1e-b8df-4008-8c1a-87d7303dc15b/credentials/01kkjd5pgx87wdvd0vj2f5569h/designs/01hnp3ngds4t4jkq8eg5nyvxwy/H18PabZfvK.png" />
+</a>
