@@ -2,7 +2,7 @@
 <br>
 <br>
 <h3 align="center">
-  <span style="font-size:16px">S</span><span style="font-size:14px">ENIOR </span><span style="font-size:16px">T</span><span style="font-size:14px">ECHNICAL </span><span style="font-size:16px">P</span><span style="font-size:14px">ROGRAM </span><span style="font-size:16px">M</span><span style="font-size:14px">ANAGER</span>
+ <span style="font-size:20px">S</span><span style="font-size:18px">ENIOR </span><span style="font-size:20px">T</span><span style="font-size:18px">ECHNICAL </span><span style="font-size:20px">P</span><span style="font-size:18px">ROGRAM </span><span style="font-size:20px">M</span><span style="font-size:18px">ANAGER</span>
 </h3>
 
 I'm a Technical Program Manager focused on building and delivering AI/ML-powered products, systems and automation programs across ads, data, e-commerce, and order-to-cash domains.
