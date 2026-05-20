@@ -10,7 +10,6 @@ I'm a Technical Program Manager focused on building and delivering AI/ML-powered
 ## A few examples of impact:
 - Built an AI powered **Project Portfolio Planning app** that reduced program planning time by ~30%.
 - Led **Pinterest's Ads Deals framework overhaul** unlocking **$100M in incremental deals value.**
-- Delivered **$9.7M in operating cost reduction** through **automation**, **system** and **API integrations**.
 - Prevented **80,000 fraud attempts** and helped protect accounts worth over $30M.
 - Automated **credit and collections workflows** using **Salesforce** and **Python coding**, saving 2,080 hours annually.
 - Lead executive reviews, roadmap planning & governance sessions and WBR, MBR and QBRs.
