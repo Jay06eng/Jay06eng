@@ -23,6 +23,6 @@ I'm especially interested in TPM, Program, and Product Manager opportunities whe
 
 ---
 
-👉 [View my portfolio]([https://jay06eng.github.io/](https://jay06eng.github.io/portfolio )
+👉 [View my portfolio](https://jay06eng.github.io/portfolio)
 
 
