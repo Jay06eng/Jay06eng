@@ -29,7 +29,7 @@ My goal is to drive engineering excellence and strategic business growth especia
 My work combines strategy, execution, and technical delivery leading team efforts across **Product**, **Engineering**, **Sales**, **Finance**, and **Operations**, helping organizations turn **complex business problems** into scalable solutions in ads, data, e-commerce, and order-to-cash domains.
 
 
-My toolkit includes Salesforce, Oracle, SAP, AWS, JIRA, ADO, Notion, Asana, Confluence, GitHub, Python, Docker, SQL, opencode and VS Code. I also have experience designing and deploying AI-native apps in Claude and OpenAI environments.
+Right now I'm running LLMs locally and exploring Hermes Agents. other ERPs, CRMs, tools I have used are Salesforce, Oracle, SAP, AWS, JIRA, ADO, Notion, Asana, Confluence, GitHub, Python, Docker, SQL, opencode and VS Code. I also have experience designing and deploying AI-native apps in Claude and OpenAI environments.
 
 I'm especially interested in TPM, Program, and Product Manager opportunities where AI, product delivery, performance & inference, automation, and business impact come together in platform operations and enterprise programs.
 
