@@ -21,6 +21,8 @@ My toolkit includes Salesforce, Oracle, SAP, AWS, JIRA, ADO, Notion, Asana, Conf
 
 I'm especially interested in TPM, Program, and Product Manager opportunities where AI, product delivery, automation, and business impact come together in ads, payments, platform operations and enterprise programs.
 
+---
 
+👉 [View my portfolio](https://jay06eng.github.io/)
 
 
