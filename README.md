@@ -26,7 +26,7 @@ My goal is to drive engineering excellence and strategic business growth especia
 - Prevented **80,000 fraud attempts** and helped protect accounts worth over $30M at **Amazon**.
 - Lead executive reviews, roadmap planning, WBR, MBR and QBRs.
 
-My work combines strategy, execution, and technical delivery across **Product**, **Engineering**, **Sales**, **Finance**, and **Operations**, helping organizations turn **complex business problems** into scalable solutions in ads, data, e-commerce, and order-to-cash domains.
+My work combines strategy, execution, and technical delivery leading team efforts across **Product**, **Engineering**, **Sales**, **Finance**, and **Operations**, helping organizations turn **complex business problems** into scalable solutions in ads, data, e-commerce, and order-to-cash domains.
 
 
 My toolkit includes Salesforce, Oracle, SAP, AWS, JIRA, ADO, Notion, Asana, Confluence, GitHub, Python, Docker, SQL, opencode and VS Code. I also have experience designing and deploying AI-native apps in Claude and OpenAI environments.
