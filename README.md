@@ -5,30 +5,21 @@
   <span style="font-size:16px">S</span><span style="font-size:14px">ENIOR </span><span style="font-size:16px">T</span><span style="font-size:14px">ECHNICAL </span><span style="font-size:16px">P</span><span style="font-size:14px">ROGRAM </span><span style="font-size:16px">M</span><span style="font-size:14px">ANAGER</span>
 </h3>
 
-<p align="center">TPM bridging engineering depth and scaled tooling for <strong>Data & Revenue Operations</strong> in the <strong>eCommerce, Digital Marketing, and Ads industries</strong> unlocking <strong>$4.2B+ in Ads spend</strong>.</p>
+I'm a Technical Program Manager focused on building and delivering AI/ML-powered products, systems and automation programs across ads, data, e-commerce, and order-to-cash domains.
 
----
-<h2 align="center"><strong><span style="font-size:16px">K</span><span style="font-size:14px">ey </span><span style="font-size:16px">H</span><span style="font-size:14px">ighlights</span></strong></h2>
+## A few examples of impact:
+- Built an AI powered **Project Portfolio Planning app** that reduced program planning time by ~30%.
+- Led **Pinterest's Ads Deals framework overhaul** unlocking **$100M in incremental deals value.**
+- Delivered **$9.7M in operating cost reduction** through **automation**, **system** and **API integrations**.
+- Prevented **80,000 fraud attempts** and helped protect accounts worth over $30M.
+- Automated **credit and collections workflows** using **Salesforce** and **Python coding**, saving 2,080 hours annually.
+- Lead executive reviews, roadmap planning & governance sessions and WBR, MBR and QBRs.
 
-- Shipped the Self-Service IO feature at Pinterest.
-  - Projected **$150M+ revenue impact**, enabling scalable advertiser frictionless products.
+My work combines strategy, execution, and technical delivery. I've led cross-functional programs across **Product**, **Engineering**, **Sales**, **Finance**, and **Operations**, helping organizations turn **complex business problems** into scalable solutions and **reliable deployments**.
 
-- **Ads Deals Framework Overhaul**.
-  - Increased deals value contract portfolio by **$100M YoY**, improving monetization workflows.
+My toolkit includes Salesforce, Oracle, SAP, AWS, JIRA, ADO, Notion, Asana, Confluence, GitHub, Python, Docker and SQL. I also have experience designing and deploying AI-native apps in Claude and OpenAI environments.
 
-- **Leadership and Alignment**.
-  Directed  Engineering, Product, Legal, Finance, Data, and Sales teams efforts .
-  - Platform migration and integrations impacting 100K+ advertisers at Pinterest and Xenon Arc.
-  - Designed, built and managed process improvements empowering 1.5M hourly workers and 900K+ Sellers at Amazon.
-
-- **Delivery & Process Excellence**.
-  Managed delivery pipelines using Jira and GitHub, enforcing SDLC structure applying AGILE & LEAN SIX SIGMA frameworks.
-
-- **AI and Agentic Models**.
-  Hands-on experience with AI agent orchestration, applying strong guardrails around privacy, safety, and human-in-the-loop oversight.
-
-- **Executive Communication**.
-  Known for structured thinking and clear communication that builds trust from peers to C-suite leaders in complex global environments.
+I'm especially interested in TPM, Program, and Product Manager opportunities where AI, product delivery, automation, and business impact come together in ads, payments, platform operations and enterprise programs.
 
 
 
