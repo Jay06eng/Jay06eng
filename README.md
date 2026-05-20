@@ -7,6 +7,11 @@
 
 I'm a Technical Program Manager focused on building and delivering AI/ML-powered products, systems and automation programs across ads, data, e-commerce, and order-to-cash domains.
 
+<p align="center">
+  👉 <a href="https://jay06eng.github.io/portfolio">View my portfolio</a>
+</p>
+
+
 ## A few examples of impact:
 - Built an AI powered **Project Portfolio Planning app** that reduced program planning time by ~30%.
 - Led **Pinterest's Ads Deals framework overhaul** unlocking **$100M in incremental deals value.**
@@ -22,6 +27,6 @@ I'm especially interested in TPM, Program, and Product Manager opportunities whe
 
 ---
 
-👉 [View my portfolio](https://jay06eng.github.io/portfolio)
+
 
 
