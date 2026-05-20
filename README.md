@@ -8,7 +8,7 @@
 I'm a Technical Program Manager focused on building and delivering AI/ML-powered products, systems and automation programs across ads, data, e-commerce, and order-to-cash domains.
 
 <p align="center">
-  👉 <a href="https://jay06eng.github.io/portfolio">View my portfolio</a>
+  👉 <a href="https://jay06eng.github.io">View my portfolio</a>
 </p>
 
 
